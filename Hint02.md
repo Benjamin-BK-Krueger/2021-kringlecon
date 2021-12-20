@@ -5,28 +5,44 @@
 ## Overview
 Requested by Piney Sappington, found in KringleCon - Courtyard
 <br>
-**Difficulty**: :christmas_tree: (1/5)  
-**Task**: Get your bearings at KringleCon  
+**Task**: Exifdate
+**Description**: 
 
-![Jingle Ringford](/Jingle_Ringford.png)
+```
+HELP! That wily Jack Frost modified one of our naughty/nice records, and right 
+before Christmas! Can you help us figure out which one? We've installed exiftool
+for your convenience!
+
+Filename (including .docx extension) > 
+```
+
+![Piney Sappington](/Piney_Sappington.png)
 
 ## Resources
-*none*
+* Exiftool man page: http://manpages.org/exiftool
 
 ## Solution
 
-Well, this challenge is here to get you started. You will be guided through the KringleCon "onboarding process" step-by-step.  
-Just follow the steps presented to you:
-1. Talk to Jingle Ringford - Jingle will start you on your journey!
-2. Get your badge - Pick up your badge
-3. Get the wifi adapter - Pick up the wifi adapter
-4. Use the terminal - Click the computer terminal
+One of the files seem to contain altered metadata. So let's loop over all files and compare the output of the exiftool helper:
+
+``` bash
+elf@e2533911c94b:~$ for i in *; do echo $i; exiftool $i | wc; done
+..
+2021-12-20.docx
+     44     186    1928
+2021-12-21.docx
+     44     186    1927
+2021-12-22.docx
+     44     186    1928
 ```
-The answer is already given:
-Click in the upper pane of this terminal
-Type answer and press Enter
+
+So the 21-file seems to be the target:
+
+``` bash
+elf@e2533911c94b:~$ exiftool 2021-12-21.docx
+..
+Last Modified By       : Jack Frost
+..
 ```
-Hint: If the screen is too busy because there a lot of players online, you can "hide" them in the settings, this way it's easier to find items/people/terminals  
-Hint: TBD tmux hint
 
 <br>[Go back](Hints.md)
