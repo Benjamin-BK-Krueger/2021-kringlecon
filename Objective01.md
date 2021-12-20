@@ -11,7 +11,7 @@ Requested by Jingle Ringford, found in The North Pole - Orientation
 ![Jingle Ringford](/Jingle_Ringford.png)
 
 ## Resources
-*none*
+[Hints from Piney Sappington](Hints02.md) found in KringleCon - Courtyard
 
 ## Solution
 
