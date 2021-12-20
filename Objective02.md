@@ -1,7 +1,32 @@
-# Objective 2
+# Objective 2: Where in the World is Caramel Santaigo? 
 
-<br>[Go back](README.md)
+<br>[Go back](Objectives.md)
 
-TBD
+## Overview
+Requested by Tangle Coalbox, found in KringleCon - Courtyard  
+<br>
+**Difficulty**: :christmas_tree: (1/5)  
+**Task**: Get your bearings at KringleCon  
 
-<br>[Go back](README.md)
+![Jingle Ringford](/Jingle_Ringford.png)
+
+## Resources
+*none*
+
+## Solution
+
+Well, this challenge is here to get you started. You will be guided through the KringleCon "onboarding process" step-by-step.  
+Just follow the steps presented to you:
+1. Talk to Jingle Ringford - Jingle will start you on your journey!
+2. Get your badge - Pick up your badge
+3. Get the wifi adapter - Pick up the wifi adapter
+4. Use the terminal - Click the computer terminal
+```
+The answer is already given:
+Click in the upper pane of this terminal
+Type answer and press Enter
+```
+Hint: If the screen is too busy because there a lot of players online, you can "hide" them in the settings, this way it's easier to find items/people/terminals  
+Hint: TBD tmux hint
+
+<br>[Go back](Objectives.md)
