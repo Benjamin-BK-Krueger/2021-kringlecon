@@ -16,7 +16,7 @@ for your convenience!
 Filename (including .docx extension) > 
 ```
 
-![Piney Sappington](/Piney_Sappington.png)
+![Piney Sappington](../img/Piney_Sappington.png)
 
 ## Resources
 * Exiftool man page: http://manpages.org/exiftool

@@ -8,7 +8,7 @@ Requested by Jingle Ringford, found in The North Pole - Orientation
 **Difficulty**: :christmas_tree: (1/5)  
 **Task**: Get your bearings at KringleCon  
 
-![Jingle Ringford](/Jingle_Ringford.png)
+![Jingle Ringford](../img/Jingle_Ringford.png)
 
 ## Resources
 *None*

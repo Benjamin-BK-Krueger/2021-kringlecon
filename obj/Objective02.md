@@ -8,11 +8,11 @@ Requested by Tangle Coalbox, found in KringleCon - Courtyard
 **Difficulty**: :christmas_tree: (1/5)  
 **Task**: Help Tangle Coalbox find a wayward elf in Santa's courtyard. Talk to Piney Sappington nearby for hints.  
 
-![Tangle Coalbox](/Tangle_Coalbox.png)
+![Tangle Coalbox](../img/Tangle_Coalbox.png)
 
 ## Resources
 * Talk video "Using Open-Source Tools to Track Elves" by Clay Moody on Track 6
-* [Hints from Piney Sappington](Hint02.md), found in KringleCon - Courtyard
+* [Hints from Piney Sappington](../hnt/Hint02.md), found in KringleCon - Courtyard
 
 ## Solution
 
@@ -25,7 +25,7 @@ Playing the game always includes these steps:
 * Departy by sleigh to visit the next stop and use the InterRink terminal to filter possible target elves using your findings
 You will most likel visit three stops, the investigations should give you enough information to filter the InterRink so only one target elf is left.  
 
-![Challenge 2 Screen](/Challenge_02_screen.png)
+![Challenge 2 Screen](../img/Challenge_02_screen.png)
 
 Sample play log:
 
