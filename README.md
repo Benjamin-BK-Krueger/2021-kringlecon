@@ -7,7 +7,8 @@ KringleCon relates to SANS' Holiday Hacking Challenge which happens yearly aroun
 ## About this repository
 This repository contains the report and all related scripts & code snippets I have used and/or created to solve the challenges.
 ## Story
-Each Holiday Hack Challenge has a certain story you can unlock by solving the challenges. Follow [this link](Story.md) to review the full story.
+Each Holiday Hack Challenge has a certain story you can unlock by solving the challenges.  
+Follow [this link](Story.md) to review the full story.
 ## Destinations
 This year we have two competing conventions, the KringleCon (hosted by Santa) on the one side and the FrostFest (hosted by Jack Frost).
 Each destination contains certain events (the main objectives and the secondary hints). Have a look for the elves and terminals - you can talk and interact with them to get tasks and/or hints.
