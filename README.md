@@ -15,13 +15,13 @@ Each destination contains certain events (the main objectives and the secondary 
 Follow [this link](Destinations.md) to see which destinations are available for you. 
 ## Objectives
 The objectives are the main tasks you have to achieve. Each objective has a different difficulty so there's always something for you. Just focus on the objectives which you feel comfortable with and keep the more difficult ones for later.  
-This year there are 13 objectives, just follow this link to get more information.
+This year there are 13 objectives, just follow [this link](Objectives.md) to get more information.
 ## Hints
 The hints are somewhat secondary/side tasks you may want to achieve. On the one side they are fun and on the other side each elf can give you helpful hints for the main objectives by solving his task.  
-This year there are 43 hints, just follow this link to get more information.
+This year there are 43 hints, just follow [this link](Hints.md) to get more information.
 ## Items
 The items can be found by looking around at the Con and eventually by solving other challenges. Items can be used to help you solve further challenges/objectives.  
-This year there a 2 items, just follow this link to get more information.
+This year there a 2 items, just follow [this link](Items.md) to get more information.
 ## Talks
 You can have a lot of fun by solving all the challenges but on the other side you also can gain very valuable knowledge and insights by attending the talks sessions. Most sessions relate to the single objectives in one way or another so if you get stuck somewhere just have a look at the talks.  
 This year there are 7 tracks and 13 talks in total, just follow [this link](Talks.md) to get more information.
