@@ -33,11 +33,13 @@ First stop: SANTA'S CASTLE
 I think they left to check out the Défilé de Noël.
 They called me and mentioned they were connected via Rogers Wireless.
 They were dressed for -0.9°C and clear conditions. The elf got really heated about using tabs for indents.
-> MONTRÉAL, CANADA (contains the Défilé de Noël festival)
+
+Next stop must be MONTRÉAL, CANADA (contains the Défilé de Noël festival)
 They were excited about checking out the Vánoční trhy.
 They said something about NATO and 33U VR 58560 48464. /shrug
 They were dressed for 5.0°C and partly cloudy conditions. Oh, I noticed they had a Firefly themed phone case.
-> PRAGUE, CZECH REPUBLIC (contains the Vánoční trhy market)
+
+Next stop must be PRAGUE, CZECH REPUBLIC (contains the Vánoční trhy market)
 They said, if asked, they would describe their next location as "only milder vanilla."
 They were excited that their phone was going to work on the 1500 MHz LTE band
 They were dressed for 14.0°C and partly cloudy conditions. The elf mentioned something about Stack Overflow and Python.
@@ -45,7 +47,7 @@ They were dressed for 14.0°C and partly cloudy conditions. The elf mentioned so
 Possible elves (checking the hints in the elf system):
 Fitzy Shortstack
 
-> TOKYO, JAPAN (has the 1500 MHz LTE Japanese Band)
+Next stop must be TOKYO, JAPAN (has the 1500 MHz LTE Japanese Band)
 
 You just caught the elf!
 You've won!
