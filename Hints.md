@@ -9,7 +9,7 @@
 * [Objective 3](hnt/Hint03.md) **Thaw Frost Tower's Entrance** hints from Greasy GopherGuts found in The North Pole - The North Pole
 * [Objective 4](hnt/Hint04.md) **Slot Machine Investiation** hints from Noel Boetie found in The North Pole - The North Pole
 * [Objective 5](hnt/Hint05.md) **Strange USB Device** hints from Jewel Loggins found in KringleCon - Talks Lobby
-* [Objective 6](hnt/Hint06.md) **Shellcode Primer** hints from Ruby Oyster found in FrostFest - Jack’s Office
+* [Objective 6](hnt/Hint06.md) **Shellcode Primer** hints from Chimney Scissorsticks found KringleCon - NetWars
 * [Objective 7](hnt/Hint07.md) **Printer Exploitation** hints from Ruby Oyster found in FrostFest - Jack’s Office
 * [Objective 8](hnt/Hint08.md) **Kerberoasting on an Open Fire** hints from Eve Snowshoes found in KringleCon - Santa’s Office
 * [Objective 9](hnt/Hint09.md) **Splunk!** hints from Fitzy Shortstack found in KringleCon - Entry
