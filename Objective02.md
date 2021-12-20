@@ -12,7 +12,7 @@ Requested by Tangle Coalbox, found in KringleCon - Courtyard
 
 ## Resources
 * Talk video "Using Open-Source Tools to Track Elves" by Clay Moody on Track 6
-* Hints from Piney Sappington, found in KringleCon - Courtyard
+* [Hints from Piney Sappington](Hint02.md), found in KringleCon - Courtyard
 
 ## Solution
 
