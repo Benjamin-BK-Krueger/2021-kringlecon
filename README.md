@@ -24,7 +24,7 @@ The items can be found by looking around at the Con and eventually by solving ot
 This year there a 2 items, just follow this link to get more information.
 ## Talks
 You can have a lot of fun by solving all the challenges but on the other side you also can gain very valuable knowledge and insights by attending the talks sessions. Most sessions relate to the single objectives in one way or another so if you get stuck somewhere just have a look at the talks.  
-This year there are 7 tracks and 13 talks in total, just follow this link to get more information.
+This year there are 7 tracks and 13 talks in total, just follow [this link](Talks.md) to get more information.
 ## Achievements
 You can get an achievement by solving a main objective or a side hint challenge.  
 This year there are 25 achievements.
