@@ -3,7 +3,7 @@
 <br>[Go back](Hints.md)
 
 ## Overview
-Requested by Jingle Ringford, found in The North Pole - Orientation  
+Requested by Piney Sappington, found in KringleCon - Courtyard
 <br>
 **Difficulty**: :christmas_tree: (1/5)  
 **Task**: Get your bearings at KringleCon  
