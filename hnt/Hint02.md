@@ -1,6 +1,6 @@
 # Hints for Objective 2: Where in the World is Caramel Santaigo?
 
-<br>[Go back](Hints.md)
+<br>[Go back](../Hints.md)
 
 ## Overview
 Requested by Piney Sappington, found in KringleCon - Courtyard
@@ -45,4 +45,4 @@ Last Modified By       : Jack Frost
 ..
 ```
 
-<br>[Go back](Hints.md)
+<br>[Go back](../Hints.md)
