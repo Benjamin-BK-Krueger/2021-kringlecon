@@ -28,6 +28,7 @@ You will most likel visit three stops, the investigations should give you enough
 ![Challenge 2 Screen](/Challenge_02_screen.png)
 <br>
 Sample play log:
+
 ```
 First stop: SANTA'S CASTLE
 I think they left to check out the Défilé de Noël.
