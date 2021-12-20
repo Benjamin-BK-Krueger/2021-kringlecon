@@ -11,7 +11,7 @@ Each Holiday Hack Challenge has a certain story you can unlock by solving the ch
 ## Destinations
 This year we have two competing conventions, the KringleCon (hosted by Santa) on the one side and the FrostFest (hosted by Jack Frost).
 Each destination contains certain events (the main objectives and the secondary hints). Have a look for the elves and terminals - you can talk and interact with them to get tasks and/or hints.
-Follow this link to see which destinations are available for you. 
+Follow [this link](Destinations.md) to see which destinations are available for you. 
 ## Objectives
 The objectives are the main tasks you have to achieve. Each objective has a different difficulty so there's always something for you. Just focus on the objectives which you feel comfortable with and keep the more difficult ones for later. 
 This year there are 13 objectives, just follow this link to get more information.
@@ -33,5 +33,3 @@ Well, the settings can be used to "tune" the event to match your needs. One sett
 This repository is a complete walkthrough so please only have a look at the solutions if you're completely stuck or want to check if you're on the right track.
 Please also be aware that there might be different solutions to solve a challenge, there might be other (and most likely better) solutions as well!
 All the challenges have been created in a way that they can be solved without special hardware/software. Sometimes it might be helpful to have a Kali VM with Internet Access available. 
-
-> Written with [StackEdit](https://stackedit.io/).
