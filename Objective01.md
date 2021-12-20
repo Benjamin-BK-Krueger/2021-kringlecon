@@ -1,5 +1,7 @@
 # Objective 1: KringleCon Orientation
 
+<br>[Go back](README.md)
+
 ## Overview
 Requested by Jingle Ringford, found in The North Pole - Orientation  
 <br>
@@ -19,9 +21,12 @@ Just follow the steps presented to you:
 2. Get your badge - Pick up your badge
 3. Get the wifi adapter - Pick up the wifi adapter
 4. Use the terminal - Click the computer terminal
-
-<br>[Go back](README.md)
-
-TBD
+```
+The answer is already given:
+Click in the upper pane of this terminal
+Type answer and press Enter
+```
+Hint: If the screen is too busy because there a lot of players online, you can "hide" them in the settings, this way it's easier to find items/people/terminals  
+Hint: TBD tmux hint
 
 <br>[Go back](README.md)
