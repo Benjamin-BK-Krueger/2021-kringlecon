@@ -28,4 +28,5 @@ Type answer and press Enter
 ```
 Hint: If the screen is too busy because there a lot of players online, you can "hide" them in the settings, this way it's easier to find items/people/terminals  
 Hint: Some terminals are "split". You may have problems doing a copy&paste there. Enter "tmux set -g mouse off" in the termin windows to enable copy&paste for that moment
+
 <br>[Go back](Objectives.md)
