@@ -10,27 +10,27 @@ This repository contains the report and all related scripts & code snippets I ha
 Each Holiday Hack Challenge has a certain story you can unlock by solving the challenges.  
 Follow [this link](Story.md) to review the full story.
 ## Destinations
-This year we have two competing conventions, the KringleCon (hosted by Santa) on the one side and the FrostFest (hosted by Jack Frost).
-Each destination contains certain events (the main objectives and the secondary hints). Have a look for the elves and terminals - you can talk and interact with them to get tasks and/or hints.
+This year we have two competing conventions, the KringleCon (hosted by Santa) on the one side and the FrostFest (hosted by Jack Frost).  
+Each destination contains certain events (the main objectives and the secondary hints). Have a look for the elves and terminals - you can talk and interact with them to get tasks and/or hints.  
 Follow [this link](Destinations.md) to see which destinations are available for you. 
 ## Objectives
-The objectives are the main tasks you have to achieve. Each objective has a different difficulty so there's always something for you. Just focus on the objectives which you feel comfortable with and keep the more difficult ones for later. 
+The objectives are the main tasks you have to achieve. Each objective has a different difficulty so there's always something for you. Just focus on the objectives which you feel comfortable with and keep the more difficult ones for later.  
 This year there are 13 objectives, just follow this link to get more information.
 ## Hints
-The hints are somewhat secondary/side tasks you may want to achieve. On the one side they are fun and on the other side each elf can give you helpful hints for the main objectives by solving his task.
+The hints are somewhat secondary/side tasks you may want to achieve. On the one side they are fun and on the other side each elf can give you helpful hints for the main objectives by solving his task.  
 This year there are 43 hints, just follow this link to get more information.
 ## Items
-The items can be found by looking around at the Con and eventually by solving other challenges. Items can be used to help you solve further challenges/objectives.
+The items can be found by looking around at the Con and eventually by solving other challenges. Items can be used to help you solve further challenges/objectives.  
 This year there a 2 items, just follow this link to get more information.
 ## Talks
-You can have a lot of fun by solving all the challenges but on the other side you also can gain very valuable knowledge and insights by attending the talks sessions. Most sessions relate to the single objectives in one way or another so if you get stuck somewhere just have a look at the talks.
+You can have a lot of fun by solving all the challenges but on the other side you also can gain very valuable knowledge and insights by attending the talks sessions. Most sessions relate to the single objectives in one way or another so if you get stuck somewhere just have a look at the talks.  
 This year there are 7 tracks and 13 talks in total, just follow this link to get more information.
 ## Achievements
-You can get an achievement by solving a main objective or a side hint challenge. 
+You can get an achievement by solving a main objective or a side hint challenge.  
 This year there are 25 achievements.
 ## Settings
 Well, the settings can be used to "tune" the event to match your needs. One setting might be important for you: If a destination gets very crowded and you cannot spot the elves or terminals, just hide other players for a moment.
 ## Further Notes
-This repository is a complete walkthrough so please only have a look at the solutions if you're completely stuck or want to check if you're on the right track.
-Please also be aware that there might be different solutions to solve a challenge, there might be other (and most likely better) solutions as well!
+This repository is a complete walkthrough so please only have a look at the solutions if you're completely stuck or want to check if you're on the right track.  
+Please also be aware that there might be different solutions to solve a challenge, there might be other (and most likely better) solutions as well!  
 All the challenges have been created in a way that they can be solved without special hardware/software. Sometimes it might be helpful to have a Kali VM with Internet Access available. 
