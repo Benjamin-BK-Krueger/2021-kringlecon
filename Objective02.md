@@ -24,9 +24,9 @@ Playing the game always includes these steps:
 * Note anything that might help you identify the next stop (e.g. "their phone was going to work on the **1500 MHz LTE** band")
 * Departy by sleigh to visit the next stop and use the InterRink terminal to filter possible target elves using your findings
 You will most likel visit three stops, the investigations should give you enough information to filter the InterRink so only one target elf is left.  
-<br>
+
 ![Challenge 2 Screen](/Challenge_02_screen.png)
-<br>
+
 Sample play log:
 
 ```
