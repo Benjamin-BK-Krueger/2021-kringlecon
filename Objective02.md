@@ -25,6 +25,8 @@ Playing the game always includes these steps:
 * Departy by sleigh to visit the next stop and use the InterRink terminal to filter possible target elves using your findings
 You will most likel visit three stops, the investigations should give you enough information to filter the InterRink so only one target elf is left.  
 <br>
+![Challenge 2 Screen](/Challenge_02_screen.png)
+<br>
 Sample play log:
 ```
 First stop: SANTA'S CASTLE
