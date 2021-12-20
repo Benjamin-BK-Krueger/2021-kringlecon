@@ -1,6 +1,6 @@
 # Objective 2: Where in the World is Caramel Santaigo? 
 
-<br>[Go back](Objectives.md)
+<br>[Go back](../Objectives.md)
 
 ## Overview
 Requested by Tangle Coalbox, found in KringleCon - Courtyard  
@@ -54,4 +54,4 @@ You just caught the elf!
 You've won!
 ```
 
-<br>[Go back](Objectives.md)
+<br>[Go back](../Objectives.md)
