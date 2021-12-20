@@ -5,7 +5,7 @@
 ## Overview
 Requested by Piney Sappington, found in KringleCon - Courtyard
 <br>
-**Task**: Exifdate
+**Task**: Exifdate  
 **Description**: 
 
 ```
