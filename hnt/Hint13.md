@@ -14,7 +14,7 @@ The elevator is offline, you need to configure the panel and arrange the circuit
 
 ![Grody Goiterson](../img/Grody_Goiterson.png)
 
-![Hint 13 Screen](../img/Hint_13_1_screen.png)
+![Hint 13 Screen](../img/Hint_13_screen1.png)
 
 ## Resources
 * Logic Gates and Circuits: https://logic.ly/lessons/
@@ -23,7 +23,7 @@ The elevator is offline, you need to configure the panel and arrange the circuit
 
 You can use the resource link to see what effect each component has. The final solution looks like:  
 
-![Hint 13 Screen](../img/Hint_13_2_screen.png)
+![Hint 13 Screen](../img/Hint_13_screen1.png)
 
 ## Hints given
 
