@@ -23,7 +23,7 @@ The elevator is offline, you need to configure the panel and arrange the circuit
 
 You can use the resource link to see what effect each component has. The final solution looks like:  
 
-![Hint 13 Screen](../img/Hint_13_screen1.png)
+![Hint 13 Screen](../img/Hint_13_screen2.png)
 
 ## Hints given
 
