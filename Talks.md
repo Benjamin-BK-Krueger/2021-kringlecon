@@ -9,7 +9,7 @@ Hint: You can have a look at the agenda [following this link](https://downloads.
 |                |**Ed Skoudis**<br>SANS Holiday Hack Challenge: Welcome & Orientation<br>*Track 1*                        |
 |----------------|-------------------------------|
 |**Andy Smith**<br>Automate Security Response by Creating Your Own “Naughty Lists”<br>*Track 2*|**Tom Liston**<br>RFC-3514 Compliant Pentesting: Being Good While You’re Being Bad<br>*Track 2*|      
-|**Prof. Qwerty Petabyte**<br>FPGA Design for Embedded Systems<br>*Track 3*|**Nancy Gariché**<br>Disclosing Security Vulnerabilities to Open-Source Projects... Like a Boss<br>*Track 3*|     
+|**Prof. Qwerty Petabyte**<br>[FPGA Design for Embedded Systems](https://www.youtube.com/watch?v=GFdG1PJ4QjA)<br>*Track 3*|**Nancy Gariché**<br>Disclosing Security Vulnerabilities to Open-Source Projects... Like a Boss<br>*Track 3*|     
 |**Jay Beale**<br>Kubernetes Attack Demo: Hacking a Cheating Casino<br>*Track 4*|**Xena Olsen**<br>The Abominable Snowman’s Threat Hunting Adeventure<br>*Track 4*| 
 |**Sean Atkinson + Chris Elgee**<br>A CISO’s Best Friend: The Pentester!!?!<br>*Track 5*|**Chris Davis**<br>[Demonstrating Active Directory Penetration Testing](https://www.youtube.com/watch?v=iMh8FTzepU4)<br>*Track 5*|
 |**Mary Ellen Kennel**<br>How to Build a Free Malware Lab and Start Analyzing Samples in Under an Hour<br>*Track 6*|**Clay Moody**<br>[Using Open-Source Tools to Track Elves](https://www.youtube.com/watch?v=tAot_mcBT9c)<br>*Track 6*|
