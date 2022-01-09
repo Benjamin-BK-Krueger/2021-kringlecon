@@ -1,4 +1,6 @@
 
+{{TOC}}
+
 # Holiday Hack Challenge 2021
 ## About KringleCon
 KringleCon relates to SANS' Holiday Hacking Challenge which happens yearly around the Christmas time. You can find more information about the event here: https://www.sans.org/mlp/holiday-hack-challenge/
