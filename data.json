@@ -73,55 +73,72 @@
       ]
     },
     {
-      "name": "KringleCon_Entry"
+      "name": "KringleCon_Entry",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_DiningRoom"
+      "name": "KringleCon_DiningRoom",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_GreatRoom"
+      "name": "KringleCon_GreatRoom",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_Kitchen"
+      "name": "KringleCon_Kitchen",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_Courtyard"
+      "name": "KringleCon_Courtyard",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_TalksLobby"
+      "name": "KringleCon_TalksLobby",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_SpeakerUNpreparationRoom"
+      "name": "KringleCon_SpeakerUNpreparationRoom",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_SantasOffice"
+      "name": "KringleCon_SantasOffice",
+      "description": "TBD"
     },
     {
-      "name": "KringleCon_NetWars"
+      "name": "KringleCon_NetWars",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_FrostTowerLobby"
+      "name": "FrostFest_FrostTowerLobby",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_JacksStudio"
+      "name": "FrostFest_JacksStudio",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_JacksOffice"
+      "name": "FrostFest_JacksOffice",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_JacksRestroom"
+      "name": "FrostFest_JacksRestroom",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_FrostTowerGiftShop"
+      "name": "FrostFest_FrostTowerGiftShop",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_FrostTowerRooftop"
+      "name": "FrostFest_FrostTowerRooftop",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_TalksLobby"
+      "name": "FrostFest_TalksLobby",
+      "description": "TBD"
     },
     {
-      "name": "FrostFest_TheThirdKind"
+      "name": "FrostFest_TheThirdKind",
+      "description": "TBD"
     }
   ]
 }
