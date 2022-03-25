@@ -377,6 +377,24 @@
           "description": "Using the elevator in front of you"
         }
       ],
+      "objectives": [
+        {
+          "name": "HubrisSelfington",
+          "description": "a Troll standing next to a Terminal for „Objective 4 - Slot Machine Investiation“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        },
+        {
+          "name": "GrodyGoiterson",
+          "description": "a Troll standing next to the broken elevator",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
+      ],
       "characters": [
         {
           "name": "Jack Frost ",
@@ -391,6 +409,16 @@
         {
           "destination": "FrostFest_JacksOffice",
           "description": "Behind you"
+        }
+      ],
+      "objectives": [
+        {
+          "name": "IngretaTude",
+          "description": "a Troll standing next to a Terminal for „Objective 12 - Frost Tower Website Checkup“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
         }
       ]
     },
@@ -418,6 +446,24 @@
           "destination": "FrostFest_FrostTowerRooftop",
           "description": "Using the elevator in front of you"
         }
+      ],
+      "objectives": [
+        {
+          "name": "RubyOyster",
+          "description": "a Troll standing next to a Terminal for „Objective 6 - Shellcode Primer“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        },
+        {
+          "name": "DevicePrinter",
+          "description": "a printer standing next to the wall",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
       ]
     },
     {
@@ -427,6 +473,16 @@
         {
           "destination": "FrostFest_JacksStudio",
           "description": "Behind you"
+        }
+      ],
+      "objectives": [
+        {
+          "name": "NoxiousODor",
+          "description": "a Troll standing next to a Terminal called „IMDS Exploration“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
         }
       ]
     },
@@ -471,6 +527,16 @@
           "description": "Using the elevator in front of you"
         }
       ],
+      "objectives": [
+        {
+          "name": "CrunchySquishter",
+          "description": "a Troll standing next to a Terminal for „Objective 13 - FPGA Programming“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
+      ],
       "items": [
         {
           "name": "FPGA",
@@ -493,6 +559,16 @@
         {
           "destination": "FrostFest_FrostTowerRooftop",
           "description": "Using the elevator in front of you"
+        }
+      ],
+      "objectives": [
+        {
+          "name": "PatTronizer",
+          "description": "a Troll standing next to a Terminal for „Objective 10 - Now Hiring!“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
         }
       ]
     },
