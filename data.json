@@ -12,7 +12,7 @@
       "objectives": [
         {
           "name": "JingleRingford",
-          "description": "an Elf standing next to a Terminal for \"Objective 1 - KringleCon Orientation\"",
+          "description": "an Elf standing next to a Terminal for „Objective 1 - KringleCon Orientation“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supports": "main",
@@ -46,7 +46,7 @@
       "objectives": [
         {
           "name": "GreasyGopherGuts",
-          "description": "a Troll standing next to a Terminal called \"Greping for Gold\"",
+          "description": "a Troll standing next to a Terminal called „Greping for Gold“",
           "difficulty": 1,
           "url": "tbd",
           "supports": "JingleRingford",
@@ -54,7 +54,15 @@
         },
         {
           "name": "NoelBoetie",
-          "description": "an Elf standing next to a Terminal called \"Logic Munchers\"",
+          "description": "an Elf standing next to a Terminal called „Logic Munchers“",
+          "difficulty": 1,
+          "url": "tbd",
+          "supports": "JingleRingford",
+          "requires": "none"
+        },
+        {
+          "name": "GrimyMcTrolkins",
+          "description": "a Troll standing next to a Terminal for „Objective 3 - Thaw Frost Tower’s Entrance“",
           "difficulty": 1,
           "url": "tbd",
           "supports": "JingleRingford",
@@ -101,6 +109,16 @@
           "description": "Using the elevator behind of you"
         }
       ],
+      "objectives": [
+        {
+          "name": "FitzyShortstack",
+          "description": "an Elf standing next to a Terminal called „Yara Analysis“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
+      ],
       "characters": [
         {
           "name": "Santa ",
@@ -128,6 +146,16 @@
           "destination": "KringleCon_Kitchen",
           "description": "At the right side farther away"
         }
+      ],
+      "objectives": [
+        {
+          "name": "RibbBonbowford",
+          "description": "an Elf standing next to an arcade machine called „The Elf Code“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
       ]
     },
     {
@@ -146,6 +174,16 @@
           "destination": "KringleCon_Kitchen",
           "description": "At the left side, farther away"
         }
+      ],
+      "objectives": [
+        {
+          "name": "AngelCandysalt",
+          "description": "an Elf standing next to a Terminal for „Objective 9 Splunk!“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
       ]
     },
     {
@@ -160,6 +198,16 @@
           "destination": "KringleCon_GreatRoom",
           "description": "At the right side"
         }
+      ],
+      "objectives": [
+        {
+          "name": "TinselUpatree",
+          "description": "an Elf standing next to a Terminal called „Strace Ltrace Retrace“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
       ]
     },
     {
@@ -173,6 +221,24 @@
         {
           "destination": "KringleCon_GreatRoom",
           "description": "Behind you, at the right side"
+        }
+      ],
+      "objectives": [
+        {
+          "name": "TangleCoalbox",
+          "description": "an Elf standing next to a Terminal for „Objective 2 - Where in the World is Caramel Santiago?“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        },
+        {
+          "name": "PineySappington",
+          "description": "an Elf standing next to a Terminal called „Exif Metadata“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
         }
       ],
       "characters": [
@@ -202,6 +268,16 @@
           "destination": "KringleCon_NetWars",
           "description": "Using the elevator behind of you"
         }
+      ],
+      "objectives": [
+        {
+          "name": "JewelLoggins",
+          "description": "an Elf standing next to a Terminal called „IPv6 Sandbox“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
       ]
     },
     {
@@ -211,6 +287,16 @@
         {
           "destination": "KringleCon_TalksLobby",
           "description": "At the right side"
+        }
+      ],
+      "objectives": [
+        {
+          "name": "MorcelNougat",
+          "description": "an Elf standing next to a Terminal for „Objective 5 - Strange USB Device“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
         }
       ]
     },
@@ -230,6 +316,16 @@
           "destination": "KringleCon_NetWars",
           "description": "Using the elevator behind of you"
         }
+      ],
+      "objectives": [
+        {
+          "name": "EveSnowshoes",
+          "description": "an Elf standing next to a Terminal called „HoHo ... No“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
+        }
       ]
     },
     {
@@ -247,6 +343,16 @@
         {
           "destination": "KringleCon_SantasOffice",
           "description": "Using the elevator behind of you"
+        }
+      ],
+      "objectives": [
+        {
+          "name": "ChimneyScissorsticks",
+          "description": "an Elf standing next to a Terminal called „Holiday Hero game“",
+          "difficulty": 1,
+          "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
+          "supports": "main",
+          "requires": "WiFiDongle"
         }
       ]
     },
