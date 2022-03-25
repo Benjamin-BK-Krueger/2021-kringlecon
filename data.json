@@ -89,10 +89,6 @@
           "description": "At the right side"
         },
         {
-          "destination": "KringleCon_Entry",
-          "description": "Using the elevator behind of you"
-        },
-        {
           "destination": "KringleCon_TalksLobby",
           "description": "Using the elevator behind of you"
         },
@@ -199,10 +195,6 @@
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_TalksLobby",
-          "description": "Using the elevator behind of you"
-        },
-        {
           "destination": "KringleCon_SantasOffice",
           "description": "Using the elevator behind of you"
         },
@@ -235,10 +227,6 @@
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_SantasOffice",
-          "description": "Using the elevator behind of you"
-        },
-        {
           "destination": "KringleCon_NetWars",
           "description": "Using the elevator behind of you"
         }
@@ -259,10 +247,6 @@
         {
           "destination": "KringleCon_SantasOffice",
           "description": "Using the elevator behind of you"
-        },
-        {
-          "destination": "KringleCon_NetWars",
-          "description": "Using the elevator behind of you"
         }
       ]
     },
@@ -271,7 +255,7 @@
       "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
+          "destination": "FrostFest_FrostTowerGiftShop",
           "description": "Behind you"
         },
         {
@@ -317,7 +301,7 @@
           "description": "In front of you, at the right side"
         },
         {
-          "destination": "FrostFest_JacksOffice",
+          "destination": "FrostFest_FrostTowerLobby",
           "description": "Using the elevator in front of you"
         },
         {
@@ -377,7 +361,7 @@
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_FrostTowerRooftop",
+          "destination": "FrostFest_FrostTowerLobby",
           "description": "Using the elevator in front of you"
         }
       ],
@@ -397,7 +381,7 @@
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_TalksLobby",
+          "destination": "FrostFest_FrostTowerLobby",
           "description": "Using the elevator in front of you"
         },
         {
@@ -412,7 +396,7 @@
       "junctions": [
         {
           "destination": "FrostFest_FrostTowerRooftop",
-          "description": "In front of you"
+          "description": "Right behind you"
         }
       ],
       "characters": [
