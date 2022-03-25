@@ -69,7 +69,7 @@
       "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls.",
       "characters": [
         {
-          "name": "Santa",
+          "name": "Santa ",
           "description": "waiting to welcome new people"
         },
         {
@@ -121,7 +121,7 @@
       "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator.",
       "characters": [
         {
-          "name": "Jack Frost",
+          "name": "Jack Frost ",
           "description": "welcoming arriving people"
         }
       ]
@@ -143,7 +143,7 @@
       "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!",
       "characters": [
         {
-          "name": "Jack Frost",
+          "name": "Jack Frost  ",
           "description": "trying to sell all that merchandise"
         }
       ]
@@ -167,7 +167,7 @@
       "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself.",
       "characters": [
         {
-          "name": "Jack Frost",
+          "name": "Jack Frost   ",
           "description": "having seen better days"
         },
         {
