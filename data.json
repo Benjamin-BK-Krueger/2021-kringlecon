@@ -24,12 +24,6 @@
           "name": "WiFiDongle",
           "description": "A USB WiFi dongle"
         }
-      ],
-      "characters": [
-        {
-          "name": "Santa",
-          "description": "standing in the middle of the room surrounded by the pigeons"
-        }
       ]
     },
     {
@@ -63,12 +57,26 @@
         {
           "name": "Santa",
           "description": "standing in the middle of the room surrounded by the pigeons"
+        },
+        {
+          "name": "Jack Frost",
+          "description": "waiting in front of the Frost tower"
         }
       ]
     },
     {
       "name": "KringleCon_Entry",
-      "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls."
+      "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls.",
+      "characters": [
+        {
+          "name": "Santa",
+          "description": "waiting to welcome new people"
+        },
+        {
+          "name": "Sparkle Redburry",
+          "description": "standing next to the elevator"
+        }
+      ]
     },
     {
       "name": "KringleCon_DiningRoom",
@@ -84,7 +92,13 @@
     },
     {
       "name": "KringleCon_Courtyard",
-      "description": "You have entered the court yard. A few logs are burning in the center area. Around the burning woods you can see a few booths."
+      "description": "You have entered the court yard. A few logs are burning in the center area. Around the burning woods you can see a few booths.",
+      "characters": [
+        {
+          "name": "Cyberus",
+          "description": "a three-headed dog standing between the booths"
+        }
+      ]
     },
     {
       "name": "KringleCon_TalksLobby",
@@ -104,7 +118,13 @@
     },
     {
       "name": "FrostFest_FrostTowerLobby",
-      "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator."
+      "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator.",
+      "characters": [
+        {
+          "name": "Jack Frost",
+          "description": "welcoming arriving people"
+        }
+      ]
     },
     {
       "name": "FrostFest_JacksStudio",
@@ -120,11 +140,35 @@
     },
     {
       "name": "FrostFest_FrostTowerGiftShop",
-      "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!"
+      "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!",
+      "characters": [
+        {
+          "name": "Jack Frost",
+          "description": "trying to sell all that merchandise"
+        }
+      ]
     },
     {
       "name": "FrostFest_FrostTowerRooftop",
       "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
+      "characters": [
+        {
+          "name": "Jack Frost",
+          "description": "having seen better days"
+        },
+        {
+          "name": "Buttercup",
+          "description": "some strange alien"
+        },
+        {
+          "name": "Icy Sickles",
+          "description": "another alien"
+        },
+        {
+          "name": "Erin Fection",
+          "description": "yet another strange alien"
+        }
+      ],
       "items": [
         {
           "name": "FPGA",
