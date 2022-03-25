@@ -272,7 +272,19 @@
       "junctions": [
         {
           "destination": "TheNorthPole_TheNorthPole",
-          "description": "In front of you"
+          "description": "Behind you"
+        },
+        {
+          "destination": "FrostFest_JacksOffice",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_TalksLobby",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_FrostTowerRooftop",
+          "description": "Using the elevator in front of you"
         }
       ],
       "characters": [
@@ -287,8 +299,8 @@
       "description": "You take a step into Jack’s studio. In front of you you can see some paintings.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
-          "description": "In front of you"
+          "destination": "FrostFest_JacksOffice",
+          "description": "Behind you"
         }
       ]
     },
@@ -297,8 +309,24 @@
       "description": "You have reached Jack’s office. In front of you there are the elevators. At the left side you can see a huge Jack statue.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
-          "description": "In front of you"
+          "destination": "FrostFest_JacksStudio",
+          "description": "In front of you, at the left side"
+        },
+        {
+          "destination": "FrostFest_JacksRestroom",
+          "description": "In front of you, at the right side"
+        },
+        {
+          "destination": "FrostFest_JacksOffice",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_TalksLobby",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_FrostTowerRooftop",
+          "description": "Using the elevator in front of you"
         }
       ]
     },
@@ -307,8 +335,8 @@
       "description": "Wow. Is this really Jack’s restroom? The toilet in front of you must have been made of pure gold, the sink at the right side must be pure gold as well.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
-          "description": "In front of you"
+          "destination": "FrostFest_JacksStudio",
+          "description": "Behind you"
         }
       ]
     },
@@ -318,6 +346,10 @@
       "junctions": [
         {
           "destination": "TheNorthPole_TheNorthPole",
+          "description": "Behind you"
+        },
+        {
+          "destination": "FrostFest_FrostTowerLobby",
           "description": "In front of you"
         }
       ],
@@ -333,8 +365,20 @@
       "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
-          "description": "In front of you"
+          "destination": "FrostFest_TheThirdKind",
+          "description": "At the left side"
+        },
+        {
+          "destination": "FrostFest_JacksOffice",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_TalksLobby",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_FrostTowerRooftop",
+          "description": "Using the elevator in front of you"
         }
       ],
       "items": [
@@ -349,8 +393,16 @@
       "description": "You have reached the talks lobby.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
-          "description": "In front of you"
+          "destination": "FrostFest_JacksOffice",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_TalksLobby",
+          "description": "Using the elevator in front of you"
+        },
+        {
+          "destination": "FrostFest_FrostTowerRooftop",
+          "description": "Using the elevator in front of you"
         }
       ]
     },
@@ -359,7 +411,7 @@
       "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
+          "destination": "FrostFest_FrostTowerRooftop",
           "description": "In front of you"
         }
       ],
