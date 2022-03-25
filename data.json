@@ -59,12 +59,6 @@
           "requires": "none"
         }
       ],
-      "items": [
-        {
-          "name": "FPGA",
-          "description": "Field-Programmable Gate Array"
-        }
-      ],
       "characters": [
         {
           "name": "Santa",
@@ -130,7 +124,13 @@
     },
     {
       "name": "FrostFest_FrostTowerRooftop",
-      "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?"
+      "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
+      "items": [
+        {
+          "name": "FPGA",
+          "description": "Field-Programmable Gate Array"
+        }
+      ]
     },
     {
       "name": "FrostFest_TalksLobby",
