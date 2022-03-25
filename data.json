@@ -33,6 +33,14 @@
         {
           "destination": "TheNorthPole_Orientation",
           "description": "Behind of you"
+        },
+        {
+          "destination": "KringleCon_Entry",
+          "description": "On the left side"
+        },
+        {
+          "destination": "FrostFest_FrostTowerLobby",
+          "description": "On the right side"
         }
       ],
       "objectives": [
@@ -67,6 +75,36 @@
     {
       "name": "KringleCon_Entry",
       "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls.",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "Behind you"
+        },
+        {
+          "destination": "KringleCon_DiningRoom",
+          "description": "At the left side"
+        },
+        {
+          "destination": "KringleCon_GreatRoom",
+          "description": "At the right side"
+        },
+        {
+          "destination": "KringleCon_Entry",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_TalksLobby",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_SantasOffice",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_NetWars",
+          "description": "Using the elevator behind of you"
+        }
+      ],
       "characters": [
         {
           "name": "Santa ",
@@ -80,19 +118,67 @@
     },
     {
       "name": "KringleCon_DiningRoom",
-      "description": "You are standing in the dining room. A huge wooden table is located at the center. A few pictures are hanging at the walls."
+      "description": "You are standing in the dining room. A huge wooden table is located at the center. A few pictures are hanging at the walls.",
+      "junctions": [
+        {
+          "destination": "KringleCon_Entry",
+          "description": "At the right side"
+        },
+        {
+          "destination": "KringleCon_Courtyard",
+          "description": "In front of you"
+        },
+        {
+          "destination": "KringleCon_Kitchen",
+          "description": "At the right side farther away"
+        }
+      ]
     },
     {
       "name": "KringleCon_GreatRoom",
-      "description": "You have entered the great room. The whole floor is covered by a huge carpet. Pictures are covering the walls."
+      "description": "You have entered the great room. The whole floor is covered by a huge carpet. Pictures are covering the walls.",
+      "junctions": [
+        {
+          "destination": "KringleCon_Entry",
+          "description": "At the left side"
+        },
+        {
+          "destination": "KringleCon_Courtyard",
+          "description": "In front of you"
+        },
+        {
+          "destination": "KringleCon_Kitchen",
+          "description": "At the left side, farther away"
+        }
+      ]
     },
     {
       "name": "KringleCon_Kitchen",
-      "description": "You have found the kitchen. At the left side you can see the kitchen block. At the right side there is another festive Christmas tree."
+      "description": "You have found the kitchen. At the left side you can see the kitchen block. At the right side there is another festive Christmas tree.",
+      "junctions": [
+        {
+          "destination": "KringleCon_DiningRoom",
+          "description": "At the left side"
+        },
+        {
+          "destination": "KringleCon_GreatRoom",
+          "description": "At the right side"
+        }
+      ]
     },
     {
       "name": "KringleCon_Courtyard",
       "description": "You have entered the court yard. A few logs are burning in the center area. Around the burning woods you can see a few booths.",
+      "junctions": [
+        {
+          "destination": "KringleCon_DiningRoom",
+          "description": "Behind you, at the left side"
+        },
+        {
+          "destination": "KringleCon_GreatRoom",
+          "description": "Behind you, at the right side"
+        }
+      ],
       "characters": [
         {
           "name": "Cyberus",
@@ -102,23 +188,93 @@
     },
     {
       "name": "KringleCon_TalksLobby",
-      "description": "You have reached the talks lobby."
+      "description": "You have reached the talks lobby.",
+      "junctions": [
+        {
+          "destination": "KringleCon_SpeakerUNpreparationRoom",
+          "description": "At the left side"
+        },
+        {
+          "destination": "KringleCon_Entry",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_TalksLobby",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_SantasOffice",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_NetWars",
+          "description": "Using the elevator behind of you"
+        }
+      ]
     },
     {
       "name": "KringleCon_SpeakerUNpreparationRoom",
-      "description": "You have found the speaker UNpreparation room. Next to the christmas tree located at the right side you can see a vending machine offering drinks and snacks."
+      "description": "You have found the speaker UNpreparation room. Next to the christmas tree located at the right side you can see a vending machine offering drinks and snacks.",
+      "junctions": [
+        {
+          "destination": "KringleCon_TalksLobby",
+          "description": "At the right side"
+        }
+      ]
     },
     {
       "name": "KringleCon_SantasOffice",
-      "description": "You just discovered Santa’s office. At the right side you can see a globe and a knight statue."
+      "description": "You just discovered Santa’s office. At the right side you can see a globe and a knight statue.",
+      "junctions": [
+        {
+          "destination": "KringleCon_Entry",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_TalksLobby",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_SantasOffice",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_NetWars",
+          "description": "Using the elevator behind of you"
+        }
+      ]
     },
     {
       "name": "KringleCon_NetWars",
-      "description": "You have reached the top of the building where NetWars is talking place. A lot of participants are competing here against each other."
+      "description": "You have reached the top of the building where NetWars is talking place. A lot of participants are competing here against each other.",
+      "junctions": [
+        {
+          "destination": "KringleCon_Entry",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_TalksLobby",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_SantasOffice",
+          "description": "Using the elevator behind of you"
+        },
+        {
+          "destination": "KringleCon_NetWars",
+          "description": "Using the elevator behind of you"
+        }
+      ]
     },
     {
       "name": "FrostFest_FrostTowerLobby",
       "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator.",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ],
       "characters": [
         {
           "name": "Jack Frost ",
@@ -128,19 +284,43 @@
     },
     {
       "name": "FrostFest_JacksStudio",
-      "description": "You take a step into Jack’s studio. In front of you you can see some paintings."
+      "description": "You take a step into Jack’s studio. In front of you you can see some paintings.",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ]
     },
     {
       "name": "FrostFest_JacksOffice",
-      "description": "You have reached Jack’s office. In front of you there are the elevators. At the left side you can see a huge Jack statue."
+      "description": "You have reached Jack’s office. In front of you there are the elevators. At the left side you can see a huge Jack statue.",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ]
     },
     {
       "name": "FrostFest_JacksRestroom",
-      "description": "Wow. Is this really Jack’s restroom? The toilet in front of you must have been made of pure gold, the sink at the right side must be pure gold as well."
+      "description": "Wow. Is this really Jack’s restroom? The toilet in front of you must have been made of pure gold, the sink at the right side must be pure gold as well.",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ]
     },
     {
       "name": "FrostFest_FrostTowerGiftShop",
       "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ],
       "characters": [
         {
           "name": "Jack Frost  ",
@@ -151,6 +331,12 @@
     {
       "name": "FrostFest_FrostTowerRooftop",
       "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ],
       "items": [
         {
           "name": "FPGA",
@@ -160,11 +346,23 @@
     },
     {
       "name": "FrostFest_TalksLobby",
-      "description": "You have reached the talks lobby."
+      "description": "You have reached the talks lobby.",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ]
     },
     {
       "name": "FrostFest_TheThirdKind",
       "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself.",
+      "junctions": [
+        {
+          "destination": "TheNorthPole_TheNorthPole",
+          "description": "In front of you"
+        }
+      ],
       "characters": [
         {
           "name": "Jack Frost   ",
