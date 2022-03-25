@@ -2,7 +2,7 @@
   "rooms": [
     {
       "name": "TheNorthPole_Orientation",
-      "description": "This is the entry point to this years KringleCon. In front of you you can see a green fence.",
+      "description": "You have arrived at the entry point to this year’s KringleCon. In front of you you can see a green fence.",
       "junctions": [
         {
           "destination": "TheNorthPole_TheNorthPole",
@@ -34,7 +34,7 @@
     },
     {
       "name": "TheNorthPole_TheNorthPole",
-      "description": "The main location of this years KringleCon and FrostFest. At the left side you can see the KringleCon building, at the right side there is the Frostfest tower.",
+      "description": "You are standing in the main location of this year’s KringleCon and FrostFest. At the left side you can see the KringleCon building, at the right side there is the Frostfest tower.",
       "junctions": [
         {
           "destination": "TheNorthPole_Orientation",
@@ -74,71 +74,71 @@
     },
     {
       "name": "KringleCon_Entry",
-      "description": "TBD"
+      "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls."
     },
     {
       "name": "KringleCon_DiningRoom",
-      "description": "TBD"
+      "description": "You are standing in the dining room. A huge wooden table is located at the center. A few pictures are hanging at the walls."
     },
     {
       "name": "KringleCon_GreatRoom",
-      "description": "TBD"
+      "description": "You have entered the great room. The whole floor is covered by a huge carpet. Pictures are covering the walls."
     },
     {
       "name": "KringleCon_Kitchen",
-      "description": "TBD"
+      "description": "You have found the kitchen. At the left side you can see the kitchen block. At the right side there is another festive Christmas tree."
     },
     {
       "name": "KringleCon_Courtyard",
-      "description": "TBD"
+      "description": "You have entered the court yard. A few logs are burning in the center area. Around the burning woods you can see a few booths."
     },
     {
       "name": "KringleCon_TalksLobby",
-      "description": "TBD"
+      "description": "You have reached the talks lobby."
     },
     {
       "name": "KringleCon_SpeakerUNpreparationRoom",
-      "description": "TBD"
+      "description": "You have found the speaker UNpreparation room. Next to the christmas tree located at the right side you can see a vending machine offering drinks and snacks."
     },
     {
       "name": "KringleCon_SantasOffice",
-      "description": "TBD"
+      "description": "You just discovered Santa’s office. At the right side you can see a globe and a knight statue."
     },
     {
       "name": "KringleCon_NetWars",
-      "description": "TBD"
+      "description": "You have reached the top of the building where NetWars is talking place. A lot of participants are competing here against each other."
     },
     {
       "name": "FrostFest_FrostTowerLobby",
-      "description": "TBD"
+      "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator."
     },
     {
       "name": "FrostFest_JacksStudio",
-      "description": "TBD"
+      "description": "You take a step into Jack’s studio. In front of you you can see some paintings."
     },
     {
       "name": "FrostFest_JacksOffice",
-      "description": "TBD"
+      "description": "You have reached Jack’s office. In front of you there are the elevators. At the left side you can see a huge Jack statue."
     },
     {
       "name": "FrostFest_JacksRestroom",
-      "description": "TBD"
+      "description": "Wow. Is this really Jack’s restroom? The toilet in front of you must have been made of pure gold, the sink at the right side must be pure gold as well."
     },
     {
       "name": "FrostFest_FrostTowerGiftShop",
-      "description": "TBD"
+      "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!"
     },
     {
       "name": "FrostFest_FrostTowerRooftop",
-      "description": "TBD"
+      "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?"
     },
     {
       "name": "FrostFest_TalksLobby",
-      "description": "TBD"
+      "description": "You have reached the talks lobby."
     },
     {
       "name": "FrostFest_TheThirdKind",
-      "description": "TBD"
+      "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself."
     }
   ]
 }
