@@ -151,6 +151,20 @@
     {
       "name": "FrostFest_FrostTowerRooftop",
       "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
+      "items": [
+        {
+          "name": "FPGA",
+          "description": "Field-Programmable Gate Array"
+        }
+      ]
+    },
+    {
+      "name": "FrostFest_TalksLobby",
+      "description": "You have reached the talks lobby."
+    },
+    {
+      "name": "FrostFest_TheThirdKind",
+      "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself.",
       "characters": [
         {
           "name": "Jack Frost",
@@ -168,21 +182,7 @@
           "name": "Erin Fection",
           "description": "yet another strange alien"
         }
-      ],
-      "items": [
-        {
-          "name": "FPGA",
-          "description": "Field-Programmable Gate Array"
-        }
       ]
-    },
-    {
-      "name": "FrostFest_TalksLobby",
-      "description": "You have reached the talks lobby."
-    },
-    {
-      "name": "FrostFest_TheThirdKind",
-      "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself."
     }
   ]
 }
