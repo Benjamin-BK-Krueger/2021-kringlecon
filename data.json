@@ -15,7 +15,7 @@
           "description": "an Elf standing next to a Terminal for „Objective 1 - KringleCon Orientation“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "none",
           "requires": "none"
         }
       ],
@@ -49,7 +49,7 @@
           "description": "a Troll standing next to a Terminal called „Greping for Gold“",
           "difficulty": 1,
           "url": "tbd",
-          "supports": "JingleRingford",
+          "supportedby": "none",
           "requires": "none"
         },
         {
@@ -57,7 +57,7 @@
           "description": "an Elf standing next to a Terminal called „Logic Munchers“",
           "difficulty": 1,
           "url": "tbd",
-          "supports": "JingleRingford",
+          "supportedby": "none",
           "requires": "none"
         },
         {
@@ -65,7 +65,7 @@
           "description": "a Troll standing next to a Terminal for „Objective 3 - Thaw Frost Tower’s Entrance“",
           "difficulty": 2,
           "url": "tbd",
-          "supports": "main",
+          "supportedby": "GreasyGopherGuts",
           "requires": "WiFiDongle"
         }
       ],
@@ -115,7 +115,7 @@
           "description": "an Elf standing next to a Terminal called „Yara Analysis“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ],
@@ -153,7 +153,7 @@
           "description": "an Elf standing next to an arcade machine called „The Elf Code“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ]
@@ -181,7 +181,7 @@
           "description": "an Elf standing next to a Terminal for „Objective 9 Splunk!“",
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "FitzyShortstack",
           "requires": "none"
         }
       ]
@@ -205,7 +205,7 @@
           "description": "an Elf standing next to a Terminal called „Strace Ltrace Retrace“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ]
@@ -229,7 +229,7 @@
           "description": "an Elf standing next to a Terminal for „Objective 2 - Where in the World is Caramel Santiago?“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "PineySappington",
           "requires": "none"
         },
         {
@@ -237,7 +237,7 @@
           "description": "an Elf standing next to a Terminal called „Exif Metadata“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ],
@@ -275,7 +275,7 @@
           "description": "an Elf standing next to a Terminal called „IPv6 Sandbox“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ]
@@ -295,7 +295,7 @@
           "description": "an Elf standing next to a Terminal for „Objective 5 - Strange USB Device“",
           "difficulty": 2,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "JewelLoggins",
           "requires": "none"
         }
       ]
@@ -323,7 +323,7 @@
           "description": "an Elf standing next to a Terminal called „HoHo ... No“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ]
@@ -351,7 +351,7 @@
           "description": "an Elf standing next to a Terminal called „Holiday Hero game“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ]
@@ -383,7 +383,7 @@
           "description": "a Troll standing next to a Terminal for „Objective 4 - Slot Machine Investiation“",
           "difficulty": 2,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "NoelBoetie",
           "requires": "none"
         },
         {
@@ -391,7 +391,7 @@
           "description": "a Troll standing next to the broken elevator",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "none",
           "requires": "WiFiDongle"
         }
       ],
@@ -417,7 +417,7 @@
           "description": "a Troll standing next to a Terminal for „Objective 12 - Frost Tower Website Checkup“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "RibbBonbowford",
           "requires": "none"
         }
       ]
@@ -453,7 +453,7 @@
           "description": "a Troll standing next to a Terminal for „Objective 6 - Shellcode Primer“",
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "ChimneyScissorsticks",
           "requires": "none"
         },
         {
@@ -461,7 +461,7 @@
           "description": "a printer standing next to the wall",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "none",
           "requires": "none"
         }
       ]
@@ -481,7 +481,7 @@
           "description": "a Troll standing next to a Terminal called „IMDS Exploration“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supports": "none",
           "requires": "WiFiDongle"
         }
       ]
@@ -533,7 +533,7 @@
           "description": "a Troll standing next to a Terminal for „Objective 13 - FPGA Programming“",
           "difficulty": 4,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": "GrodyGoiterson",
           "requires": "FPGA"
         }
       ],
@@ -567,7 +567,7 @@
           "description": "a Troll standing next to a Terminal for „Objective 10 - Now Hiring!“",
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supports": "main",
+          "supportedby": " NoxiousODor",
           "requires": "none"
         }
       ]
