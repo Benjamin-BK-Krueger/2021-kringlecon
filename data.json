@@ -1,17 +1,17 @@
 {
   "rooms": [
     {
-      "name": "TheNorthPole_Orientation",
+      "name": "TheNorthPole Orientation",
       "description": "You have arrived at the entry point to this year’s KringleCon. In front of you you can see a green fence.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
+          "destination": "TheNorthPole TheNorthPole",
           "description": "In front of you"
         }
       ],
       "objectives": [
         {
-          "name": "JingleRingford",
+          "name": "Jingle Ringford",
           "description": "an Elf standing next to a Terminal for „Objective 1 - KringleCon Orientation“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
@@ -21,31 +21,31 @@
       ],
       "items": [
         {
-          "name": "WiFiDongle",
+          "name": "WiFi Dongle",
           "description": "A USB WiFi dongle"
         }
       ]
     },
     {
-      "name": "TheNorthPole_TheNorthPole",
+      "name": "TheNorthPole TheNorthPole",
       "description": "You are standing in the main location of this year’s KringleCon and FrostFest. At the left side you can see the KringleCon building, at the right side there is the Frostfest tower.",
       "junctions": [
         {
-          "destination": "TheNorthPole_Orientation",
+          "destination": "TheNorthPole Orientation",
           "description": "Behind of you"
         },
         {
-          "destination": "KringleCon_Entry",
+          "destination": "KringleCon Entry",
           "description": "On the left side"
         },
         {
-          "destination": "FrostFest_FrostTowerLobby",
+          "destination": "FrostFest FrostTowerLobby",
           "description": "On the right side"
         }
       ],
       "objectives": [
         {
-          "name": "GreasyGopherGuts",
+          "name": "Greasy GopherGuts",
           "description": "a Troll standing next to a Terminal called „Greping for Gold“",
           "difficulty": 1,
           "url": "tbd",
@@ -53,7 +53,7 @@
           "requires": "none"
         },
         {
-          "name": "NoelBoetie",
+          "name": "Noel Boetie",
           "description": "an Elf standing next to a Terminal called „Logic Munchers“",
           "difficulty": 1,
           "url": "tbd",
@@ -61,12 +61,12 @@
           "requires": "none"
         },
         {
-          "name": "GrimyMcTrolkins",
+          "name": "Grimy McTrolkins",
           "description": "a Troll standing next to a Terminal for „Objective 3 - Thaw Frost Tower’s Entrance“",
           "difficulty": 2,
           "url": "tbd",
-          "supportedby": "GreasyGopherGuts",
-          "requires": "WiFiDongle"
+          "supportedby": "Greasy GopherGuts",
+          "requires": "WiFi Dongle"
         }
       ],
       "characters": [
@@ -81,47 +81,47 @@
       ]
     },
     {
-      "name": "KringleCon_Entry",
+      "name": "KringleCon Entry",
       "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls.",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
+          "destination": "TheNorthPole TheNorthPole",
           "description": "Behind you"
         },
         {
-          "destination": "KringleCon_DiningRoom",
+          "destination": "KringleCon DiningRoom",
           "description": "At the left side"
         },
         {
-          "destination": "KringleCon_GreatRoom",
+          "destination": "KringleCon GreatRoom",
           "description": "At the right side"
         },
         {
-          "destination": "KringleCon_TalksLobby",
+          "destination": "KringleCon TalksLobby",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_SantasOffice",
+          "destination": "KringleCon SantasOffice",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_NetWars",
+          "destination": "KringleCon NetWars",
           "description": "Using the elevator behind of you"
         }
       ],
       "objectives": [
         {
-          "name": "FitzyShortstack",
+          "name": "Fitzy Shortstack",
           "description": "an Elf standing next to a Terminal called „Yara Analysis“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ],
       "characters": [
         {
-          "name": "Santa ",
+          "name": "Santa",
           "description": "waiting to welcome new people"
         },
         {
@@ -131,114 +131,114 @@
       ]
     },
     {
-      "name": "KringleCon_DiningRoom",
+      "name": "KringleCon DiningRoom",
       "description": "You are standing in the dining room. A huge wooden table is located at the center. A few pictures are hanging at the walls.",
       "junctions": [
         {
-          "destination": "KringleCon_Entry",
+          "destination": "KringleCon Entry",
           "description": "At the right side"
         },
         {
-          "destination": "KringleCon_Courtyard",
+          "destination": "KringleCon Courtyard",
           "description": "In front of you"
         },
         {
-          "destination": "KringleCon_Kitchen",
+          "destination": "KringleCon Kitchen",
           "description": "At the right side farther away"
         }
       ],
       "objectives": [
         {
-          "name": "RibbBonbowford",
+          "name": "Ribb Bonbowford",
           "description": "an Elf standing next to an arcade machine called „The Elf Code“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ]
     },
     {
-      "name": "KringleCon_GreatRoom",
+      "name": "KringleCon GreatRoom",
       "description": "You have entered the great room. The whole floor is covered by a huge carpet. Pictures are covering the walls.",
       "junctions": [
         {
-          "destination": "KringleCon_Entry",
+          "destination": "KringleCon Entry",
           "description": "At the left side"
         },
         {
-          "destination": "KringleCon_Courtyard",
+          "destination": "KringleCon Courtyard",
           "description": "In front of you"
         },
         {
-          "destination": "KringleCon_Kitchen",
+          "destination": "KringleCon Kitchen",
           "description": "At the left side, farther away"
         }
       ],
       "objectives": [
         {
-          "name": "AngelCandysalt",
+          "name": "Angel Candysalt",
           "description": "an Elf standing next to a Terminal for „Objective 9 Splunk!“",
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": "FitzyShortstack",
+          "supportedby": "Fitzy Shortstack",
           "requires": "none"
         }
       ]
     },
     {
-      "name": "KringleCon_Kitchen",
+      "name": "KringleCon Kitchen",
       "description": "You have found the kitchen. At the left side you can see the kitchen block. At the right side there is another festive Christmas tree.",
       "junctions": [
         {
-          "destination": "KringleCon_DiningRoom",
+          "destination": "KringleCon DiningRoom",
           "description": "At the left side"
         },
         {
-          "destination": "KringleCon_GreatRoom",
+          "destination": "KringleCon GreatRoom",
           "description": "At the right side"
         }
       ],
       "objectives": [
         {
-          "name": "TinselUpatree",
+          "name": "Tinsel Upatree",
           "description": "an Elf standing next to a Terminal called „Strace Ltrace Retrace“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ]
     },
     {
-      "name": "KringleCon_Courtyard",
+      "name": "KringleCon Courtyard",
       "description": "You have entered the court yard. A few logs are burning in the center area. Around the burning woods you can see a few booths.",
       "junctions": [
         {
-          "destination": "KringleCon_DiningRoom",
+          "destination": "KringleCon DiningRoom",
           "description": "Behind you, at the left side"
         },
         {
-          "destination": "KringleCon_GreatRoom",
+          "destination": "KringleCon GreatRoom",
           "description": "Behind you, at the right side"
         }
       ],
       "objectives": [
         {
-          "name": "TangleCoalbox",
+          "name": "Tangle Coalbox",
           "description": "an Elf standing next to a Terminal for „Objective 2 - Where in the World is Caramel Santiago?“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": "PineySappington",
+          "supportedby": "Piney Sappington",
           "requires": "none"
         },
         {
-          "name": "PineySappington",
+          "name": "Piney Sappington",
           "description": "an Elf standing next to a Terminal called „Exif Metadata“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ],
       "characters": [
@@ -249,215 +249,215 @@
       ]
     },
     {
-      "name": "KringleCon_TalksLobby",
+      "name": "KringleCon TalksLobby",
       "description": "You have reached the talks lobby.",
       "junctions": [
         {
-          "destination": "KringleCon_SpeakerUNpreparationRoom",
+          "destination": "KringleCon SpeakerUNpreparationRoom",
           "description": "At the left side"
         },
         {
-          "destination": "KringleCon_Entry",
+          "destination": "KringleCon Entry",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_SantasOffice",
+          "destination": "KringleCon SantasOffice",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_NetWars",
+          "destination": "KringleCon NetWars",
           "description": "Using the elevator behind of you"
         }
       ],
       "objectives": [
         {
-          "name": "JewelLoggins",
+          "name": "Jewel Loggins",
           "description": "an Elf standing next to a Terminal called „IPv6 Sandbox“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ]
     },
     {
-      "name": "KringleCon_SpeakerUNpreparationRoom",
+      "name": "KringleCon SpeakerUNpreparationRoom",
       "description": "You have found the speaker UNpreparation room. Next to the christmas tree located at the right side you can see a vending machine offering drinks and snacks.",
       "junctions": [
         {
-          "destination": "KringleCon_TalksLobby",
+          "destination": "KringleCon TalksLobby",
           "description": "At the right side"
         }
       ],
       "objectives": [
         {
-          "name": "MorcelNougat",
+          "name": "Morcel Nougat",
           "description": "an Elf standing next to a Terminal for „Objective 5 - Strange USB Device“",
           "difficulty": 2,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": "JewelLoggins",
+          "supportedby": "Jewel Loggins",
           "requires": "none"
         }
       ]
     },
     {
-      "name": "KringleCon_SantasOffice",
+      "name": "KringleCon SantasOffice",
       "description": "You just discovered Santa’s office. At the right side you can see a globe and a knight statue.",
       "junctions": [
         {
-          "destination": "KringleCon_Entry",
+          "destination": "KringleCon Entry",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_TalksLobby",
+          "destination": "KringleCon TalksLobby",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_NetWars",
+          "destination": "KringleCon NetWars",
           "description": "Using the elevator behind of you"
         }
       ],
       "objectives": [
         {
-          "name": "EveSnowshoes",
+          "name": "Eve Snowshoes",
           "description": "an Elf standing next to a Terminal called „HoHo ... No“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ]
     },
     {
-      "name": "KringleCon_NetWars",
+      "name": "KringleCon NetWars",
       "description": "You have reached the top of the building where NetWars is talking place. A lot of participants are competing here against each other.",
       "junctions": [
         {
-          "destination": "KringleCon_Entry",
+          "destination": "KringleCon Entry",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_TalksLobby",
+          "destination": "KringleCon TalksLobby",
           "description": "Using the elevator behind of you"
         },
         {
-          "destination": "KringleCon_SantasOffice",
+          "destination": "KringleCon SantasOffice",
           "description": "Using the elevator behind of you"
         }
       ],
       "objectives": [
         {
-          "name": "ChimneyScissorsticks",
+          "name": "Chimney Scissorsticks",
           "description": "an Elf standing next to a Terminal called „Holiday Hero game“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ]
     },
     {
-      "name": "FrostFest_FrostTowerLobby",
+      "name": "FrostFest FrostTowerLobby",
       "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator.",
       "junctions": [
         {
-          "destination": "FrostFest_FrostTowerGiftShop",
+          "destination": "FrostFest FrostTowerGiftShop",
           "description": "Behind you"
         },
         {
-          "destination": "FrostFest_JacksOffice",
+          "destination": "FrostFest JacksOffice",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_TalksLobby",
+          "destination": "FrostFest TalksLobby",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_FrostTowerRooftop",
+          "destination": "FrostFest FrostTowerRooftop",
           "description": "Using the elevator in front of you"
         }
       ],
       "objectives": [
         {
-          "name": "HubrisSelfington",
+          "name": "Hubris Selfington",
           "description": "a Troll standing next to a Terminal for „Objective 4 - Slot Machine Investiation“",
           "difficulty": 2,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": "NoelBoetie",
+          "supportedby": "Noel Boetie",
           "requires": "none"
         },
         {
-          "name": "GrodyGoiterson",
+          "name": "Grody Goiterson",
           "description": "a Troll standing next to the broken elevator",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ],
       "characters": [
         {
-          "name": "Jack Frost ",
+          "name": "Jack Frost",
           "description": "welcoming arriving people"
         }
       ]
     },
     {
-      "name": "FrostFest_JacksStudio",
+      "name": "FrostFest JacksStudio",
       "description": "You take a step into Jack’s studio. In front of you you can see some paintings.",
       "junctions": [
         {
-          "destination": "FrostFest_JacksOffice",
+          "destination": "FrostFest JacksOffice",
           "description": "Behind you"
         }
       ],
       "objectives": [
         {
-          "name": "IngretaTude",
+          "name": "Ingreta Tude",
           "description": "a Troll standing next to a Terminal for „Objective 12 - Frost Tower Website Checkup“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": "RibbBonbowford",
+          "supportedby": "Ribb Bonbowford",
           "requires": "none"
         }
       ]
     },
     {
-      "name": "FrostFest_JacksOffice",
+      "name": "FrostFest JacksOffice",
       "description": "You have reached Jack’s office. In front of you there are the elevators. At the left side you can see a huge Jack statue.",
       "junctions": [
         {
-          "destination": "FrostFest_JacksStudio",
+          "destination": "FrostFest JacksStudio",
           "description": "In front of you, at the left side"
         },
         {
-          "destination": "FrostFest_JacksRestroom",
+          "destination": "FrostFest JacksRestroom",
           "description": "In front of you, at the right side"
         },
         {
-          "destination": "FrostFest_FrostTowerLobby",
+          "destination": "FrostFest FrostTowerLobby",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_TalksLobby",
+          "destination": "FrostFest TalksLobby",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_FrostTowerRooftop",
+          "destination": "FrostFest FrostTowerRooftop",
           "description": "Using the elevator in front of you"
         }
       ],
       "objectives": [
         {
-          "name": "RubyOyster",
+          "name": "Ruby Oyster",
           "description": "a Troll standing next to a Terminal for „Objective 6 - Shellcode Primer“",
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": "ChimneyScissorsticks",
+          "supportedby": "Chimney Scissorsticks",
           "requires": "none"
         },
         {
-          "name": "DevicePrinter",
+          "name": "Device Printer",
           "description": "a printer standing next to the wall",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
@@ -467,73 +467,73 @@
       ]
     },
     {
-      "name": "FrostFest_JacksRestroom",
+      "name": "FrostFest JacksRestroom",
       "description": "Wow. Is this really Jack’s restroom? The toilet in front of you must have been made of pure gold, the sink at the right side must be pure gold as well.",
       "junctions": [
         {
-          "destination": "FrostFest_JacksStudio",
+          "destination": "FrostFest JacksStudio",
           "description": "Behind you"
         }
       ],
       "objectives": [
         {
-          "name": "NoxiousODor",
+          "name": "Noxious ODor",
           "description": "a Troll standing next to a Terminal called „IMDS Exploration“",
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFiDongle"
+          "requires": "WiFi Dongle"
         }
       ]
     },
     {
-      "name": "FrostFest_FrostTowerGiftShop",
+      "name": "FrostFest FrostTowerGiftShop",
       "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!",
       "junctions": [
         {
-          "destination": "TheNorthPole_TheNorthPole",
+          "destination": "TheNorthPole TheNorthPole",
           "description": "Behind you"
         },
         {
-          "destination": "FrostFest_FrostTowerLobby",
+          "destination": "FrostFest FrostTowerLobby",
           "description": "In front of you"
         }
       ],
       "characters": [
         {
-          "name": "Jack Frost  ",
+          "name": "Jack Frost",
           "description": "trying to sell all that merchandise"
         }
       ]
     },
     {
-      "name": "FrostFest_FrostTowerRooftop",
+      "name": "FrostFest FrostTowerRooftop",
       "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
       "junctions": [
         {
-          "destination": "FrostFest_TheThirdKind",
+          "destination": "FrostFest TheThirdKind",
           "description": "At the left side"
         },
         {
-          "destination": "FrostFest_JacksOffice",
+          "destination": "FrostFest JacksOffice",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_TalksLobby",
+          "destination": "FrostFest TalksLobby",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_FrostTowerLobby",
+          "destination": "FrostFest FrostTowerLobby",
           "description": "Using the elevator in front of you"
         }
       ],
       "objectives": [
         {
-          "name": "CrunchySquishter",
+          "name": "Crunchy Squishter",
           "description": "a Troll standing next to a Terminal for „Objective 13 - FPGA Programming“",
           "difficulty": 4,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": "GrodyGoiterson",
+          "supportedby": "Grody Goiterson",
           "requires": "FPGA"
         }
       ],
@@ -545,45 +545,45 @@
       ]
     },
     {
-      "name": "FrostFest_TalksLobby",
+      "name": "FrostFest TalksLobby",
       "description": "You have reached the talks lobby.",
       "junctions": [
         {
-          "destination": "FrostFest_JacksOffice",
+          "destination": "FrostFest JacksOffice",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_FrostTowerLobby",
+          "destination": "FrostFest FrostTowerLobby",
           "description": "Using the elevator in front of you"
         },
         {
-          "destination": "FrostFest_FrostTowerRooftop",
+          "destination": "FrostFest FrostTowerRooftop",
           "description": "Using the elevator in front of you"
         }
       ],
       "objectives": [
         {
-          "name": "PatTronizer",
+          "name": "Pat Tronizer",
           "description": "a Troll standing next to a Terminal for „Objective 10 - Now Hiring!“",
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
-          "supportedby": " NoxiousODor",
+          "supportedby": "Noxious ODor",
           "requires": "none"
         }
       ]
     },
     {
-      "name": "FrostFest_TheThirdKind",
+      "name": "FrostFest TheThirdKind",
       "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself.",
       "junctions": [
         {
-          "destination": "FrostFest_FrostTowerRooftop",
+          "destination": "FrostFest FrostTowerRooftop",
           "description": "Right behind you"
         }
       ],
       "characters": [
         {
-          "name": "Jack Frost   ",
+          "name": "Jack Frost",
           "description": "having seen better days"
         },
         {
