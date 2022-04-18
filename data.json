@@ -3,6 +3,7 @@
     {
       "name": "TheNorthPole Orientation",
       "description": "You have arrived at the entry point to this year’s KringleCon. In front of you you can see a green fence.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/TheNorthPole%20Orientation.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole TheNorthPole",
@@ -16,19 +17,22 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Jingle%20Ringford.jpg"
         }
       ],
       "items": [
         {
           "name": "WiFi Dongle",
-          "description": "A USB WiFi dongle"
+          "description": "A USB WiFi dongle",
+          "image": ""
         }
       ]
     },
     {
       "name": "TheNorthPole TheNorthPole",
       "description": "You are standing in the main location of this year’s KringleCon and FrostFest. At the left side you can see the KringleCon building, at the right side there is the Frostfest tower.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/TheNorthPole%20TheNorthPole.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole Orientation",
@@ -50,7 +54,8 @@
           "difficulty": 1,
           "url": "tbd",
           "supportedby": "none",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Greasy%20GopherGuts.jpg"
         },
         {
           "name": "Noel Boetie",
@@ -58,7 +63,8 @@
           "difficulty": 1,
           "url": "tbd",
           "supportedby": "none",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Noel%20Boetie.jpg"
         },
         {
           "name": "Grimy McTrolkins",
@@ -66,23 +72,27 @@
           "difficulty": 2,
           "url": "tbd",
           "supportedby": "Greasy GopherGuts",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Grimy%20McTrolkins.jpg"
         }
       ],
       "characters": [
         {
           "name": "Santa",
-          "description": "standing in the middle of the room surrounded by the pigeons"
+          "description": "standing in the middle of the room surrounded by the pigeons",
+          "image": ""
         },
         {
           "name": "Jack Frost",
-          "description": "waiting in front of the Frost tower"
+          "description": "waiting in front of the Frost tower",
+          "image": ""
         }
       ]
     },
     {
       "name": "KringleCon Entry",
       "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20Entry.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole TheNorthPole",
@@ -116,23 +126,27 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Fitzy%20Shortstack.jpg"
         }
       ],
       "characters": [
         {
           "name": "Santa",
-          "description": "waiting to welcome new people"
+          "description": "waiting to welcome new people",
+          "image": ""
         },
         {
           "name": "Sparkle Redburry",
-          "description": "standing next to the elevator"
+          "description": "standing next to the elevator",
+          "image": ""
         }
       ]
     },
     {
       "name": "KringleCon DiningRoom",
       "description": "You are standing in the dining room. A huge wooden table is located at the center. A few pictures are hanging at the walls.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20DiningRoom.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -154,13 +168,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Ribb%20Bonbowford.jpg"
         }
       ]
     },
     {
       "name": "KringleCon GreatRoom",
       "description": "You have entered the great room. The whole floor is covered by a huge carpet. Pictures are covering the walls.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20GreatRoom.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -182,13 +198,15 @@
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Fitzy Shortstack",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Angel%20Candysalt.jpg"
         }
       ]
     },
     {
       "name": "KringleCon Kitchen",
       "description": "You have found the kitchen. At the left side you can see the kitchen block. At the right side there is another festive Christmas tree.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20Kitchen.jpg",
       "junctions": [
         {
           "destination": "KringleCon DiningRoom",
@@ -206,13 +224,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Tinsel%20Upatree.jpg"
         }
       ]
     },
     {
       "name": "KringleCon Courtyard",
       "description": "You have entered the court yard. A few logs are burning in the center area. Around the burning woods you can see a few booths.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20Courtyard.jpg",
       "junctions": [
         {
           "destination": "KringleCon DiningRoom",
@@ -230,7 +250,8 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Piney Sappington",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Tangle%20Coalbox.jpg"
         },
         {
           "name": "Piney Sappington",
@@ -238,19 +259,22 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Piney%20Sappington.jpg"
         }
       ],
       "characters": [
         {
           "name": "Cyberus",
-          "description": "a three-headed dog standing between the booths"
+          "description": "a three-headed dog standing between the booths",
+          "image": ""
         }
       ]
     },
     {
       "name": "KringleCon TalksLobby",
       "description": "You have reached the talks lobby.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20TalksLobby.jpg",
       "junctions": [
         {
           "destination": "KringleCon SpeakerUNpreparationRoom",
@@ -276,13 +300,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Jewel%20Loggins.jpg"
         }
       ]
     },
     {
       "name": "KringleCon SpeakerUNpreparationRoom",
       "description": "You have found the speaker UNpreparation room. Next to the christmas tree located at the right side you can see a vending machine offering drinks and snacks.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20SpeakerUNpreparationRoom.jpg",
       "junctions": [
         {
           "destination": "KringleCon TalksLobby",
@@ -296,13 +322,15 @@
           "difficulty": 2,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Jewel Loggins",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Morcel%20Nougat.jpg"
         }
       ]
     },
     {
       "name": "KringleCon SantasOffice",
       "description": "You just discovered Santa’s office. At the right side you can see a globe and a knight statue.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20SantasOffice.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -324,13 +352,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Eve%20Snowshoes.jpg"
         }
       ]
     },
     {
       "name": "KringleCon NetWars",
       "description": "You have reached the top of the building where NetWars is talking place. A lot of participants are competing here against each other.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/KringleCon%20NetWars.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -352,13 +382,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Chimney%20Scissorsticks.jpg"
         }
       ]
     },
     {
       "name": "FrostFest FrostTowerLobby",
       "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20FrostTowerLobby.jpg",
       "junctions": [
         {
           "destination": "FrostFest FrostTowerGiftShop",
@@ -384,7 +416,8 @@
           "difficulty": 2,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Noel Boetie",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Hubris%20Selfington.jpg"
         },
         {
           "name": "Grody Goiterson",
@@ -392,19 +425,22 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Grody%20Goiterson.jpg"
         }
       ],
       "characters": [
         {
           "name": "Jack Frost",
-          "description": "welcoming arriving people"
+          "description": "welcoming arriving people",
+          "image": ""
         }
       ]
     },
     {
       "name": "FrostFest JacksStudio",
       "description": "You take a step into Jack’s studio. In front of you you can see some paintings.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20JacksStudio.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksOffice",
@@ -418,13 +454,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Ribb Bonbowford",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Ingreta%20Tude.jpg"
         }
       ]
     },
     {
       "name": "FrostFest JacksOffice",
       "description": "You have reached Jack’s office. In front of you there are the elevators. At the left side you can see a huge Jack statue.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20JacksOffice.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksStudio",
@@ -454,7 +492,8 @@
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Chimney Scissorsticks",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Ruby%20Oyster.jpg"
         },
         {
           "name": "Device Printer",
@@ -462,13 +501,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Device%20Printer.jpg"
         }
       ]
     },
     {
       "name": "FrostFest JacksRestroom",
       "description": "Wow. Is this really Jack’s restroom? The toilet in front of you must have been made of pure gold, the sink at the right side must be pure gold as well.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20JacksRestroom.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksStudio",
@@ -482,13 +523,15 @@
           "difficulty": 1,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "none",
-          "requires": "WiFi Dongle"
+          "requires": "WiFi Dongle",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Noxious%20ODor.jpg"
         }
       ]
     },
     {
       "name": "FrostFest FrostTowerGiftShop",
       "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20FrostTowerGiftShop.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole TheNorthPole",
@@ -502,13 +545,15 @@
       "characters": [
         {
           "name": "Jack Frost",
-          "description": "trying to sell all that merchandise"
+          "description": "trying to sell all that merchandise",
+          "image": ""
         }
       ]
     },
     {
       "name": "FrostFest FrostTowerRooftop",
       "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20FrostTowerRooftop.jpg",
       "junctions": [
         {
           "destination": "FrostFest TheThirdKind",
@@ -534,19 +579,22 @@
           "difficulty": 4,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Grody Goiterson",
-          "requires": "FPGA"
+          "requires": "FPGA",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Crunchy%20Squishter.jpg"
         }
       ],
       "items": [
         {
           "name": "FPGA",
-          "description": "Field-Programmable Gate Array"
+          "description": "Field-Programmable Gate Array",
+          "image": "Text"
         }
       ]
     },
     {
       "name": "FrostFest TalksLobby",
       "description": "You have reached the talks lobby.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20TalksLobby.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksOffice",
@@ -568,13 +616,15 @@
           "difficulty": 3,
           "url": "https://docker2021.kringlecon.com/?challenge=opengate&id=898f4faf-fa0f-4494-9875-32e39cd5c371&username=Test&area=staging&location=6,4",
           "supportedby": "Noxious ODor",
-          "requires": "none"
+          "requires": "none",
+          "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/Pat%20Tronizer.jpg"
         }
       ]
     },
     {
       "name": "FrostFest TheThirdKind",
       "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself.",
+      "image": "https://raw.githubusercontent.com/benjamin-bk-krueger/2021-kringlecon/main/images/FrostFest%20TheThirdKind.jpg",
       "junctions": [
         {
           "destination": "FrostFest FrostTowerRooftop",
@@ -584,19 +634,23 @@
       "characters": [
         {
           "name": "Jack Frost",
-          "description": "having seen better days"
+          "description": "having seen better days",
+          "image": ""
         },
         {
           "name": "Buttercup",
-          "description": "some strange alien"
+          "description": "some strange alien",
+          "image": ""
         },
         {
           "name": "Icy Sickles",
-          "description": "another alien"
+          "description": "another alien",
+          "image": ""
         },
         {
           "name": "Erin Fection",
-          "description": "yet another strange alien"
+          "description": "yet another strange alien",
+          "image": ""
         }
       ]
     }
