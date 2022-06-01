@@ -3,7 +3,7 @@
     {
       "name": "TheNorthPole Orientation",
       "description": "You have arrived at the entry point to this year’s KringleCon. In front of you you can see a green fence.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/TheNorthPole%20Orientation.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/TheNorthPole%20Orientation.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole TheNorthPole",
@@ -19,21 +19,21 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Jingle%20Ringford.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Jingle%20Ringford.jpg"
         }
       ],
       "items": [
         {
           "name": "WiFi Dongle",
           "description": "A USB WiFi dongle",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Item_Wifi.png"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Item_Wifi.png"
         }
       ]
     },
     {
       "name": "TheNorthPole TheNorthPole",
       "description": "You are standing in the main location of this year’s KringleCon and FrostFest. At the left side you can see the KringleCon building, at the right side there is the Frostfest tower.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/TheNorthPole%20TheNorthPole.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/TheNorthPole%20TheNorthPole.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole Orientation",
@@ -57,7 +57,7 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Greasy%20GopherGuts.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Greasy%20GopherGuts.jpg"
         },
         {
           "name": "Noel Boetie",
@@ -67,7 +67,7 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Noel%20Boetie.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Noel%20Boetie.jpg"
         },
         {
           "name": "Grimy McTrolkins",
@@ -77,7 +77,7 @@
           "url": "",
           "supportedby": "Greasy GopherGuts",
           "requires": "WiFi Dongle",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Grimy%20McTrolkins.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Grimy%20McTrolkins.jpg"
         }
       ],
       "characters": [
@@ -96,7 +96,7 @@
     {
       "name": "KringleCon Entry",
       "description": "You have entered the entry room of the KringleCon. At the left side there is a festive Christmas tree, at the right side there is an elevator. A few pictures are hanging at the walls.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20Entry.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20Entry.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole TheNorthPole",
@@ -132,7 +132,7 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Fitzy%20Shortstack.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Fitzy%20Shortstack.jpg"
         }
       ],
       "characters": [
@@ -151,7 +151,7 @@
     {
       "name": "KringleCon DiningRoom",
       "description": "You are standing in the dining room. A huge wooden table is located at the center. A few pictures are hanging at the walls.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20DiningRoom.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20DiningRoom.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -175,14 +175,14 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Ribb%20Bonbowford.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Ribb%20Bonbowford.jpg"
         }
       ]
     },
     {
       "name": "KringleCon GreatRoom",
       "description": "You have entered the great room. The whole floor is covered by a huge carpet. Pictures are covering the walls.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20GreatRoom.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20GreatRoom.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -206,14 +206,14 @@
           "url": "",
           "supportedby": "Fitzy Shortstack",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Angel%20Candysalt.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Angel%20Candysalt.jpg"
         }
       ]
     },
     {
       "name": "KringleCon Kitchen",
       "description": "You have found the kitchen. At the left side you can see the kitchen block. At the right side there is another festive Christmas tree.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20Kitchen.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20Kitchen.jpg",
       "junctions": [
         {
           "destination": "KringleCon DiningRoom",
@@ -233,7 +233,7 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Tinsel%20Upatree.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Tinsel%20Upatree.jpg"
         },
         {
           "name": "Some person",
@@ -250,7 +250,7 @@
     {
       "name": "KringleCon Courtyard",
       "description": "You have entered the court yard. A few logs are burning in the center area. Around the burning woods you can see a few booths.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20Courtyard.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20Courtyard.jpg",
       "junctions": [
         {
           "destination": "KringleCon DiningRoom",
@@ -270,7 +270,7 @@
           "url": "",
           "supportedby": "Piney Sappington",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Tangle%20Coalbox.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Tangle%20Coalbox.jpg"
         },
         {
           "name": "Piney Sappington",
@@ -280,7 +280,7 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Piney%20Sappington.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Piney%20Sappington.jpg"
         }
       ],
       "characters": [
@@ -294,7 +294,7 @@
     {
       "name": "KringleCon TalksLobby",
       "description": "You have reached the talks lobby.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20TalksLobby.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20TalksLobby.jpg",
       "junctions": [
         {
           "destination": "KringleCon SpeakerUNpreparationRoom",
@@ -322,14 +322,14 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Jewel%20Loggins.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Jewel%20Loggins.jpg"
         }
       ]
     },
     {
       "name": "KringleCon SpeakerUNpreparationRoom",
       "description": "You have found the speaker UNpreparation room. Next to the christmas tree located at the right side you can see a vending machine offering drinks and snacks.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20SpeakerUNpreparationRoom.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20SpeakerUNpreparationRoom.jpg",
       "junctions": [
         {
           "destination": "KringleCon TalksLobby",
@@ -345,14 +345,14 @@
           "url": "",
           "supportedby": "Jewel Loggins",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Morcel%20Nougat.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Morcel%20Nougat.jpg"
         }
       ]
     },
     {
       "name": "KringleCon SantasOffice",
       "description": "You just discovered Santa’s office. At the right side you can see a globe and a knight statue.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20SantasOffice.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20SantasOffice.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -376,7 +376,7 @@
           "url": "",
           "supportedby": "none",
           "requires": "none\n",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Eve%20Snowshoes.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Eve%20Snowshoes.jpg"
         },
         {
           "name": "Someone",
@@ -393,7 +393,7 @@
     {
       "name": "KringleCon NetWars",
       "description": "You have reached the top of the building where NetWars is talking place. A lot of participants are competing here against each other.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/KringleCon%20NetWars.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/KringleCon%20NetWars.jpg",
       "junctions": [
         {
           "destination": "KringleCon Entry",
@@ -417,14 +417,14 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Chimney%20Scissorsticks.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Chimney%20Scissorsticks.jpg"
         }
       ]
     },
     {
       "name": "FrostFest FrostTowerLobby",
       "description": "You have reached the lobby. A lot of people are playing at the casino machines. In front of you there is the elevator.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20FrostTowerLobby.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20FrostTowerLobby.jpg",
       "junctions": [
         {
           "destination": "FrostFest FrostTowerGiftShop",
@@ -452,7 +452,7 @@
           "url": "",
           "supportedby": "Noel Boetie",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Hubris%20Selfington.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Hubris%20Selfington.jpg"
         },
         {
           "name": "Grody Goiterson",
@@ -462,7 +462,7 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Grody%20Goiterson.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Grody%20Goiterson.jpg"
         }
       ],
       "characters": [
@@ -476,7 +476,7 @@
     {
       "name": "FrostFest JacksStudio",
       "description": "You take a step into Jack’s studio. In front of you you can see some paintings.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20JacksStudio.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20JacksStudio.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksOffice",
@@ -492,14 +492,14 @@
           "url": "",
           "supportedby": "Ribb Bonbowford",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Ingreta%20Tude.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Ingreta%20Tude.jpg"
         }
       ]
     },
     {
       "name": "FrostFest JacksOffice",
       "description": "You have reached Jack’s office. In front of you there are the elevators. At the left side you can see a huge Jack statue.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20JacksOffice.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20JacksOffice.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksStudio",
@@ -531,7 +531,7 @@
           "url": "",
           "supportedby": "Chimney Scissorsticks",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Ruby%20Oyster.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Ruby%20Oyster.jpg"
         },
         {
           "name": "Device Printer",
@@ -541,14 +541,14 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Device%20Printer.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Device%20Printer.jpg"
         }
       ]
     },
     {
       "name": "FrostFest JacksRestroom",
       "description": "Wow. Is this really Jack’s restroom? The toilet in front of you must have been made of pure gold, the sink at the right side must be pure gold as well.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20JacksRestroom.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20JacksRestroom.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksStudio",
@@ -564,14 +564,14 @@
           "url": "",
           "supportedby": "none",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Noxious%20ODor.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Noxious%20ODor.jpg"
         }
       ]
     },
     {
       "name": "FrostFest FrostTowerGiftShop",
       "description": "You have reached Jack’s gift shop. You can see a lot of merchandise. There are t-shirts and puppets everywhere!",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20FrostTowerGiftShop.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20FrostTowerGiftShop.jpg",
       "junctions": [
         {
           "destination": "TheNorthPole TheNorthPole",
@@ -593,7 +593,7 @@
     {
       "name": "FrostFest FrostTowerRooftop",
       "description": "You are standing right at the Frost towers rooftop. The stairs are located at the right side. At the left side you can see an U.F.O. Has it been here all the time?",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20FrostTowerRooftop.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20FrostTowerRooftop.jpg",
       "junctions": [
         {
           "destination": "FrostFest TheThirdKind",
@@ -621,21 +621,21 @@
           "url": "",
           "supportedby": "Grody Goiterson",
           "requires": "FPGA",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Crunchy%20Squishter.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Crunchy%20Squishter.jpg"
         }
       ],
       "items": [
         {
           "name": "FPGA",
           "description": "Field-Programmable Gate Array",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Item_FPGA.png"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Item_FPGA.png"
         }
       ]
     },
     {
       "name": "FrostFest TalksLobby",
       "description": "You have reached the talks lobby.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20TalksLobby.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20TalksLobby.jpg",
       "junctions": [
         {
           "destination": "FrostFest JacksOffice",
@@ -659,14 +659,14 @@
           "url": "",
           "supportedby": "Noxious ODor",
           "requires": "none",
-          "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/Pat%20Tronizer.jpg"
+          "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/Pat%20Tronizer.jpg"
         }
       ]
     },
     {
       "name": "FrostFest TheThirdKind",
       "description": "You dare to enter the U.F.O. It is very dark here. At the left side there is a huge screen showing a video call to Santa himself.",
-      "image": "https://s3.hidrive.strato.com/kringle-public/world/KringleCon2021/FrostFest%20TheThirdKind.jpg",
+      "image": "https://eu2.contabostorage.com/6c12e0aef74840bf9c331581d3f4d52c:kringle-public/world/KringleCon2021/FrostFest%20TheThirdKind.jpg",
       "junctions": [
         {
           "destination": "FrostFest FrostTowerRooftop",
